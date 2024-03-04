@@ -1,0 +1,69 @@
+GET https://localhost:3000/api.php/product
+Host: localhost:3000
+Host: localhost:3000
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cache-Control: no-cache
+X-Forwarded-For: 10.240.0.69
+Pragma: no-cache
+X-Request-ID: 4aebbbbd758892a06cce8340a79ce4bc
+X-Real-IP: 10.240.0.69
+X-Forwarded-Proto: https
+X-Forwarded-Host: supreme-broccoli-4jqpqx4rqpr374j-3000.app.github.dev
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /api.php/product
+X-Scheme: https
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+DNT: 1
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+X-Original-Proto: https
+Proxy-Connection: Keep-Alive
+===
+404
+Content-Type: application/json; charset=utf-8
+Content-Length: 53
+
+{"code":1000,"message":"Route '\/product' not found"}
+===
+GET https://localhost:3000/api.php/product
+Host: localhost:3000
+Host: localhost:3000
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+X-Forwarded-For: 10.240.0.69
+X-Request-ID: d20750ba05c3aa02a09c27b57c809bce
+X-Real-IP: 10.240.0.69
+X-Forwarded-Proto: https
+X-Forwarded-Host: supreme-broccoli-4jqpqx4rqpr374j-3000.app.github.dev
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-URI: /api.php/product
+X-Scheme: https
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+DNT: 1
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+X-Original-Proto: https
+Proxy-Connection: Keep-Alive
+===
+404
+Content-Type: application/json; charset=utf-8
+Content-Length: 53
+
+{"code":1000,"message":"Route '\/product' not found"}
+===
